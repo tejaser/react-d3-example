@@ -1,5 +1,5 @@
 {
-  "name": "react-d3-example",
+  "name": "react-d3-example-bars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,5 +20,7 @@
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
-  }
+  },
+  "keywords": [],
+  "description": "Simple D3 + React combination with temprature for SF and NY"
 }
